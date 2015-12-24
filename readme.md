@@ -11,7 +11,7 @@ npm install logical-or --save
 
 ###### npm stats
 
-[![npm](https://img.shields.io/npm/v/logical-or.svg)](https://www.npmjs.org/package/logical-or) [![NPM downloads](http://img.shields.io/npm/dm/logical-or.svg)](https://www.npmjs.org/package/logical-or) [![Dependency Status](https://gemnasium.com/wilmoore/logical-or.js.svg)](https://gemnasium.com/wilmoore/logical-or.js)
+[![npm](https://img.shields.io/npm/v/logical-or.svg)](https://www.npmjs.org/package/logical-or) [![NPM downloads](http://img.shields.io/npm/dm/logical-or.svg)](https://www.npmjs.org/package/logical-or) [![David](https://img.shields.io/david/wilmoore/logical-or.js.svg)](https://david-dm.org/wilmoore/logical-or.js)
 
 ## Overview
 
