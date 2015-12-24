@@ -23,7 +23,7 @@ Returns `expr1` if it can be converted to true; otherwise, returns `expr2`. Thus
 
 ```js
 var or = require('logical-or')
-or(0, 1)
+or(1, 0)
 //=> 1
 ```
 
@@ -39,12 +39,14 @@ prices.map(or('Price unknown'))
 
 ## API
 
-### `or(expr1, expr2)`
+### `or(expr2, expr1)`
+
+> please note the argument order.
 
 ###### arguments
 
- - `expr1 (mixed)`.
  - `expr2 (mixed)`.
+ - `expr1 (mixed)`.
 
 ###### returns
 

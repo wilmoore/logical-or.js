@@ -15,11 +15,11 @@ module.exports = curry2(or)
 /**
  * Returns `expr1` if it can be converted to true; otherwise, returns `expr2`.
  *
- * @param {*} expr1
- * Expression #1.
- *
  * @param {*} expr2
  * Expression #2.
+ *
+ * @param {*} expr1
+ * Expression #1.
  *
  * @return {*}
  * `expr1` if it can be converted to true; otherwise, `expr2`.
