@@ -1,5 +1,5 @@
 # logical-or
-> Binary logical OR operator (||) as an auto-curreid function.
+> Binary logical OR operator (||) as an auto-curried function.
 
 [![Build Status](http://img.shields.io/travis/wilmoore/logical-or.js.svg)](https://travis-ci.org/wilmoore/logical-or.js) [![Code Climate](https://codeclimate.com/github/wilmoore/logical-or.js/badges/gpa.svg)](https://codeclimate.com/github/wilmoore/logical-or.js) [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
 

@@ -1,6 +1,6 @@
 {
   "name": "logical-or",
-  "description": "Binary logical OR operator (||) as an auto-curreid function.",
+  "description": "Binary logical OR operator (||) as an auto-curried function.",
   "version": "0.1.2",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "bugs": {
