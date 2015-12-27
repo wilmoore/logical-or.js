@@ -52,9 +52,9 @@ prices.map(or('Price unknown'))
 
  - `(mixed)` Returns `expr1` if it can be converted to true; otherwise, returns `expr2`.
 
-## Alternatives
+## Related
 
- - `x || y`
+ - [Logical Operators]
 
 ## Contributing
 
@@ -63,3 +63,5 @@ prices.map(or('Price unknown'))
 ## Licenses
 
 [![GitHub license](https://img.shields.io/github/license/wilmoore/logical-or.js.svg)](https://github.com/wilmoore/logical-or.js/blob/master/license)
+
+[Logical Operators]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators
